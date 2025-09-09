@@ -1,0 +1,11 @@
+@media (min-width: 768px) {
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+  }
+}
+
+p {
+  font-size: 40px;
+}
